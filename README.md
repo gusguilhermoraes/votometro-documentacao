@@ -1,5 +1,8 @@
 # Votometro
-Projeto de desenvolvimento de aplicativo de pesquisa de candidatos das eleições brasileiras e acompanhamento do trabalho parlamentar
+Projeto de desenvolvimento de aplicativo de pesquisa de candidatos das eleições brasileiras e acompanhamento do trabalho parlamentar.
+
+Esse repositório contem a documentação do aplicativo Votômetro, desenvolvido para a disciplina de Projeto Interdisciplinar II.
+Para acessar o código-fonte do projeto Votômetro, consulte: [gusguilhermoraes/votometro](https://github.com/gusguilhermoraes/votometro)
 
 # 1. Identificação
 ## Identidade visual do projeto
